@@ -13,7 +13,7 @@ export default function Navbar() {
           <CustomLink to="/about-api">API</CustomLink>
         </ul>
         <div >
-          <a href="https://github.com/" target="_blank" ><FaGithubSquare className={styles.socials}></FaGithubSquare></a>
+          <a href="https://github.com/avinash-rdy2903/dm-client" target="_blank" ><FaGithubSquare className={styles.socials}></FaGithubSquare></a>
         </div>      
     </nav>
   )

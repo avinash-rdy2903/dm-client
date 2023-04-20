@@ -2,9 +2,11 @@
   box-sizing: border-box;
 }
 
-html{  
+html {  
   background-image: url(../public/news_bg.jpeg);
+  background-size: contain;
 }
+
 html,body{
   height: 100%;
 }
